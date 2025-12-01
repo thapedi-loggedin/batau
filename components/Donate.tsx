@@ -8,7 +8,7 @@ export default function Donate() {
           </h2>
           <p className="text-lg md:text-xl text-gray-700 mb-8 leading-relaxed">
             Every young man deserves the opportunity to experience growth, leadership, and brotherhood. 
-            Many boys and men who would benefit from BATAU Camp face financial barriers that prevent them from attending.
+            Many boys and men who would benefit from Family Camp face financial barriers that prevent them from attending.
           </p>
           <p className="text-lg md:text-xl text-gray-700 mb-8 leading-relaxed">
             Your sponsorship can change a life. By supporting a camper, you're investing in their future—helping them 

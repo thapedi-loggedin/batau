@@ -27,10 +27,10 @@ export default function About() {
       <div className="max-w-container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-12">
           <h2 className="text-4xl md:text-5xl font-serif font-bold text-forest-green mb-6">
-            About BATAU Camp
+            About Family Camp
           </h2>
           <p className="text-lg md:text-xl text-gray-700 max-w-3xl mx-auto leading-relaxed">
-            BATAU Camp is a traditional, disciplined, multi-generational camp experience designed to prepare boys and men for real life. 
+            Family Camp is a traditional, disciplined, multi-generational camp experience designed to prepare boys and men for real life. 
             Through structured activities, mentorship, and community living, participants develop essential life skills, values, and a 
             strong sense of purpose. Our camp brings together generations to learn, grow, and build lasting bonds of brotherhood.
           </p>

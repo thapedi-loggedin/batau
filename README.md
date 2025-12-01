@@ -1,6 +1,6 @@
-# BATAU Camp 2025
+# Family Camp 2025
 
-A one-page website for BATAU Camp 2025 built with Next.js, TypeScript, and TailwindCSS.
+A one-page website for Family Camp 2025 built with Next.js, TypeScript, and TailwindCSS.
 
 ## Getting Started
 

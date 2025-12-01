@@ -7,7 +7,7 @@ export default function Contact() {
             Contact Us
           </h2>
           <p className="text-lg text-gray-700 max-w-2xl mx-auto">
-            Get in touch with us for registration, payment, sponsorship, or any questions about BATAU Camp 2025.
+            Get in touch with us for registration, payment, sponsorship, or any questions about Family Camp 2025.
           </p>
         </div>
 

@@ -48,7 +48,7 @@ export default function Navigation() {
               onClick={(e) => handleClick(e, '#hero')}
               className="text-white font-serif font-bold text-lg"
             >
-              BATAU Camp 2025
+              Family Camp
             </a>
           </div>
           <div className="hidden md:block">

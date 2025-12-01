@@ -18,8 +18,8 @@ export default function Hero() {
         <div className="mb-8">
           <div className="inline-block p-6 rounded-lg">
             <img 
-              src="/batau-logo.svg" 
-              alt="BATAU Camp 2025 Logo" 
+              src="/family-camp-logo.svg" 
+              alt="Family Camp Logo" 
               className="w-48 h-48 object-contain"
             />
           </div>
@@ -38,7 +38,9 @@ export default function Hero() {
         {/* Buttons */}
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <a
-            href="#payment"
+            href="https://form.jotform.com/253108490365558"
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-block bg-forest-green text-white px-8 py-4 rounded-md font-semibold text-lg hover:bg-dark-olive transition-colors shadow-lg"
           >
             Register for 2025

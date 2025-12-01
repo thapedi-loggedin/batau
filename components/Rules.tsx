@@ -42,7 +42,7 @@ export default function Rules() {
             Rules & Guiding Principles
           </h2>
           <p className="text-lg text-gray-300 max-w-2xl mx-auto">
-            BATAU Camp maintains strict standards to ensure a safe, respectful, and transformative experience for all participants.
+            Family Camp maintains strict standards to ensure a safe, respectful, and transformative experience for all participants.
           </p>
         </div>
 
@@ -64,7 +64,7 @@ export default function Rules() {
 
         <div className="mt-12 text-center">
           <p className="text-lg font-semibold text-white">
-            By attending BATAU Camp, you agree to abide by these rules and principles. 
+            By attending Family Camp, you agree to abide by these rules and principles. 
             Failure to comply may result in dismissal from camp.
           </p>
         </div>
