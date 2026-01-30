@@ -67,6 +67,16 @@ export default function Contact() {
               Magaliesburg, South Africa
             </p>
           </div>
+
+          {/* Future Camps Button */}
+          <div className="mt-8 text-center">
+            <a
+              href="/future-camps"
+              className="inline-block bg-purple-600 text-white px-8 py-4 rounded-lg font-semibold text-lg hover:bg-purple-700 transition-colors shadow-lg"
+            >
+              FUTURE CAMPS
+            </a>
+          </div>
         </div>
       </div>
     </section>

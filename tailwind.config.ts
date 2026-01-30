@@ -16,6 +16,7 @@ const config: Config = {
         'forest-green': '#1B4332',
         'dark-olive': '#3A5A40',
         'section-black': '#1A1A1A',
+        'soft-stone': '#D8D2C6',
       },
       fontFamily: {
         serif: ['Merriweather', 'serif'],
