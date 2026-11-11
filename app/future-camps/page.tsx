@@ -2,6 +2,7 @@
 
 import { useState } from 'react'
 import Link from 'next/link'
+import Footer from '@/components/Footer'
 
 interface AccordionItemProps {
   title: string
@@ -214,6 +215,7 @@ export default function FutureCampsPage() {
           </Link>
         </div>
       </section>
+      <Footer />
     </div>
   )
 }
