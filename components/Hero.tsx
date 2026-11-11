@@ -7,7 +7,7 @@ export default function Hero() {
         <div
           className="w-full h-full bg-cover bg-center"
           style={{
-            backgroundImage: "url('/WhatsApp%20Image%202025-11-29%20at%2023.21.35_777c97ef.jpg')",
+            backgroundImage: "url('/WhatsApp%20Image%202026-11-29%20at%2023.21.35_777c97ef.jpg')",
           }}
         ></div>
       </div>
@@ -43,7 +43,7 @@ export default function Hero() {
             rel="noopener noreferrer"
             className="inline-block bg-forest-green text-white px-8 py-4 rounded-md font-semibold text-lg hover:bg-dark-olive transition-colors shadow-lg"
           >
-            Register for 2025
+            Register for 2026
           </a>
           <a
             href="#donate"

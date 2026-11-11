@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Family Camp 2025',
+  title: 'Family Camp 2026',
   description: 'Preparing boys and men for real life: leadership, values, and purpose.',
   icons: {
     icon: [

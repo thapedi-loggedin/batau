@@ -70,6 +70,15 @@ export default function FutureCampsPage() {
 
   return (
     <div className="min-h-screen bg-light-bg">
+      <nav aria-label="Page navigation" className="max-w-container mx-auto px-4 sm:px-6 lg:px-8 pt-6">
+        <Link
+          href="/"
+          className="inline-flex items-center gap-2 bg-forest-green text-white px-6 py-3 rounded-lg font-semibold hover:bg-dark-olive transition-colors focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-forest-green"
+        >
+          <span aria-hidden="true">←</span>
+          Back to Home
+        </Link>
+      </nav>
       {/* Hero Section */}
       <section className="py-20 md:py-32 bg-light-bg">
         <div className="max-w-container mx-auto px-4 sm:px-6 lg:px-8 text-center">
@@ -197,12 +206,12 @@ export default function FutureCampsPage() {
           <p className="text-lg md:text-xl text-gray-700 max-w-3xl mx-auto mb-10 leading-relaxed">
             We are inviting mentors, facilitators, volunteers, and activity leaders from every background to help shape the next chapter of the Family Camp Movement. If any of these camps interest you — or if you have skills to offer — please reach out to the organizers.
           </p>
-          <a
-            href="#"
+          <Link
+            href="/#contact"
             className="inline-block bg-forest-green text-white px-8 py-4 rounded-lg font-semibold text-lg hover:bg-dark-olive transition-colors shadow-lg"
           >
             Contact Organisers
-          </a>
+          </Link>
         </div>
       </section>
     </div>
