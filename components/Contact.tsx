@@ -59,13 +59,11 @@ export default function Contact() {
               href="https://maps.app.goo.gl/NBy1qfWHvXHoynaG9"
               target="_blank"
               rel="noopener noreferrer"
-              className="block text-lg text-gray-700 hover:text-forest-green transition-colors"
+              className="inline-block text-lg text-forest-green underline underline-offset-4 hover:text-dark-olive transition-colors focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-forest-green"
             >
-              Vusumuzi Camp Site
+              <span className="block">Vusumuzi Camp Site</span>
+              <span className="block">Magaliesburg, South Africa</span>
             </a>
-            <p className="text-lg text-gray-700">
-              Magaliesburg, South Africa
-            </p>
           </div>
 
           {/* Future Camps Button */}
